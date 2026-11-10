@@ -39,7 +39,7 @@ Research and expert notes live in [knowledge-base/](knowledge-base/README.md).
 |---|---|---|
 | Doorway Reset | Free | 10-minute audio to play before walking in the door at home |
 | Workshop | Free | 60-minute live Zoom, monthly |
-| Reset Session | $300 or $500 | One deep session, two options: $300 for up to 90 minutes, or $500 for as long as it takes. The 90-day goal. |
+| Reset Session | $300 or $500 | One deep session, two options: $300 for up to 90 minutes, or $500 for up to 3 hours. The 90-day goal. |
 | 5-session program | $2,000, later up to $5,000 | Offered only to men who had a breakthrough in the Reset Session |
 
 ### Paused for 90 days
@@ -83,7 +83,7 @@ The offer is the paid thing the workshop leads into.
 | Check | Item | My answer |
 |---|---|---|
 | [x] | Clear, desirable outcome (specific and measurable) | Stop snapping at the people you love; walk in the door calm |
-| [ ] | Reasonable, exciting timeline | Reset Session: one session ($300 up to 90 min, $500 open-ended). Program: 5 sessions. |
+| [ ] | Reasonable, exciting timeline | Reset Session: one session ($300 up to 90 min, $500 up to 3 hours). Program: 5 sessions. |
 | [ ] | Safe to start (guarantee, paid trial, or payment plan) | Reset Session works as a paid trial. Guarantee not chosen. |
 | [ ] | Bright future with a light load | |
 | [x] | I know my number | |
