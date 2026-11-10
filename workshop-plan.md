@@ -5,7 +5,7 @@ We fill this in step by step during coaching sessions. Blank lines mean we haven
 
 Research and expert notes live in [knowledge-base/](knowledge-base/README.md).
 
-**Status:** Focus plan agreed except for two open decisions (session price, Skool). Build freeze starts when both are settled and the weeks 1 to 2 build is done.
+**Status:** Focus plan agreed. Build freeze starts once the weeks 1 to 2 build is done.
 
 ---
 
@@ -21,7 +21,7 @@ Research and expert notes live in [knowledge-base/](knowledge-base/README.md).
 
 - Time: 5 to 10 hours a week, marketing included
 - Goal: first paying clients within 90 days. Long-term goal is $4,000+/month net.
-- Budget: under $100/month ongoing, about $100/month of it for Meta ads
+- Budget: about $100/month for Meta ads (approved), plus existing tools
 - Energizing work: deep 1:1 sessions, teaching groups live, recording audio, building systems with AI
 - Avoid: sales and discovery calls. A 15-minute fit call for safety screening is acceptable.
 - Privacy: nothing public reveals my legal name, so first clients come from strangers online instead of my personal network
@@ -39,12 +39,12 @@ Research and expert notes live in [knowledge-base/](knowledge-base/README.md).
 |---|---|---|
 | Doorway Reset | Free | 10-minute audio to play before walking in the door at home |
 | Workshop | Free | 60-minute live Zoom, monthly |
-| Reset Session | $300 or $500 (open) | One 2-hour deep session. The 90-day goal. |
+| Reset Session | $300 or $500 | One deep session, two options: $300 for up to 90 minutes, or $500 for as long as it takes. The 90-day goal. |
 | 5-session program | $2,000, later up to $5,000 | Offered only to men who had a breakthrough in the Reset Session |
 
 ### Paused for 90 days
 
-- Skool community (open decision: pause until 10+ men have worked with me?)
+- Skool community, until 10+ men have worked with me. Then open it as a founding group.
 - YouTube and TikTok. Facebook and Instagram only.
 - Weekly 1,200-word blog. Workshop recordings become posts instead.
 - Paid-workshop machinery (sales page, order bump, upsells) until workshop #3 or later
@@ -83,7 +83,7 @@ The offer is the paid thing the workshop leads into.
 | Check | Item | My answer |
 |---|---|---|
 | [x] | Clear, desirable outcome (specific and measurable) | Stop snapping at the people you love; walk in the door calm |
-| [ ] | Reasonable, exciting timeline | Reset Session: one 2-hour session. Program: 5 sessions. |
+| [ ] | Reasonable, exciting timeline | Reset Session: one session ($300 up to 90 min, $500 open-ended). Program: 5 sessions. |
 | [ ] | Safe to start (guarantee, paid trial, or payment plan) | Reset Session works as a paid trial. Guarantee not chosen. |
 | [ ] | Bright future with a light load | |
 | [x] | I know my number | |
