@@ -3,6 +3,8 @@
 Working document for the Workshop Launch Formula Checklist (Cody Burch, codyburch.com).
 We fill this in step by step during coaching sessions. Blank lines mean we haven't decided yet.
 
+Research and expert notes live in [knowledge-base/](knowledge-base/README.md).
+
 **Status:** Step 1 in progress
 
 ---
