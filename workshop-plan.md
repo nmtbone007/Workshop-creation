@@ -11,6 +11,7 @@ Research and expert notes live in [knowledge-base/](knowledge-base/README.md).
 
 ## Background
 
+- What I do: Business coach and strategist
 - Who I serve:
 - What I sell today (if anything):
 - Current audience size (email list, social, clients):
