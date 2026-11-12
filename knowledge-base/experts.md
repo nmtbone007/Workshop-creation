@@ -137,8 +137,24 @@ Ten sources, listed in order of how closely their work matches a short paid work
 
 ---
 
+## 11. Rich Guzzi
+**Programs:** live multi-day business workshops for hypnotists, coaches, and speakers. The 2025 session included guest teaching from Ashley (LinkedIn prospecting) and Joe (Facebook ads).
+
+**Key ideas**
+- **Nine-step free speech with an offer.** Steps 1 to 3 (intro, table of contents, no questions) and 7 to 9 (the pitch) keep a fixed length. Steps 4 to 6 (story, myths, three action items) stretch or shrink to fit the time slot. Steps 7 to 9 weren't in the session we have. [Primary, live workshop]
+- **No Q&A in a free talk.** Questions turn into objections, especially "will you run this again?" Hand out a sheet for questions and aha moments and take questions at the back table. [Primary]
+- **The story's turning point should match the offer**, so the presenter becomes the attendee's turning point. [Primary]
+- **Reusable funnel.** Tag every step, keep sales, onboarding, and completion as separate sequences, and write reminders backward from the event date so the next run only needs new dates. [Primary]
+- **Invite LinkedIn connections to the workshop** instead of booking one-on-one sales calls. [Primary]
+
+**Sources:** live workshop recording, 2025. Notes in [rich-guzzi-workshop.md](rich-guzzi-workshop.md). Most numbers are self-reported and garbled in the transcription.
+
+---
+
 ## Where the experts disagree
 
 **Paid or free?** The Stantons, Mulready, and Burch favor charging a small fee because buyers show up and act. Fladlien and Porterfield still run free live webinars at scale. A small list favors paid: you need fewer registrants, and every buyer joins a customer list. A large list or a big ad budget can favor free.
 
 **Replay or no replay?** Porterfield withholds replays to drive live attendance. Many paid workshop sellers include the replay or sell it as the order bump. Selling the replay as the bump earns money from no-shows while still rewarding people who attend live.
+
+**Q&A or no Q&A?** Guzzi takes no questions during a free talk because questions turn into objections. Most webinar teachers in this file leave room for live chat and questions. A compromise: collect questions in chat or on a sheet during the teaching, then answer them inside the pitch, where each answer can handle an objection.
