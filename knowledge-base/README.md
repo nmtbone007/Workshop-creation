@@ -7,7 +7,7 @@ Research notes that feed `../workshop-plan.md`. Gathered November 2026.
 | [experts.md](experts.md) | Each expert, their programs, and their key ideas, with sources |
 | [playbook.md](playbook.md) | The ideas reorganized by checklist step, ready to apply |
 | [benchmarks.md](benchmarks.md) | Numbers for prices, show-up rates, bump take rates, and conversion |
-| [rich-guzzi-workshop.md](rich-guzzi-workshop.md) | Notes from Rich Guzzi's 2025 workshop on in-person selling, phone checkout links, and digital delivery |
+| [rich-guzzi-workshop.md](rich-guzzi-workshop.md) | Notes from Rich Guzzi's 2025 workshop: in-person selling, websites, CRM funnels, LinkedIn prospecting, stage and media skills, branding, and the nine-step free speech |
 | [transcripts/](transcripts/) | Raw workshop transcripts behind the notes |
 
 ## How to read the evidence
